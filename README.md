@@ -244,3 +244,6 @@ https://youtu.be/tNY0WxooXBE
 ## 6.Bibliografía 
 
 _Carlos G, J. (2021b, junio 17). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/_
+
+_Universidad de Vigo. (s. f.). Inducción mútua. Quintans. Recuperado 30 de julio de 2021, de http://quintans.webs.uvigo.es/recursos/Web_electromagnetismo/electromagnetismo_circuitosmagneticos.htm_
+
