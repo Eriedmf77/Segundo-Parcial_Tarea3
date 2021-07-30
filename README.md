@@ -62,6 +62,18 @@ _15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se 
 
 ![image](https://user-images.githubusercontent.com/85728185/127661588-c7e15931-7e04-41e4-8605-526fc7b8848f.png)
 
+**11-3 Capacitores con un voltaje inicial**
+
+_21. Para el capacitor de la figura 11-51, V0 _ 30 V._
+
+_a. Determine la expresion para el voltaje de carga vC._
+
+![image](https://user-images.githubusercontent.com/85728185/127662393-a3ea51ab-4e1d-42aa-b93b-4dce2ed89feb.png)
+
+_b. Determine la expresion para la corriente iC._
+
+![image](https://user-images.githubusercontent.com/85728185/127662433-ec7bf85a-24d9-4ac8-9509-d1ae36dd920b.png)
+
 ** Capítulo 12 **
 
 ## 4.Video
