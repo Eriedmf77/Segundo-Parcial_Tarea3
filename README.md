@@ -232,10 +232,11 @@ _25. Si el circuito de la figura 12-53 no tiene espacio y R3 = 0.2 mWb, encuentr
 
 **Capítulo 11**
 
-
+https://youtu.be/cJfXZOh12iM
 
 **Capítulo 12**
 
+https://youtu.be/tNY0WxooXBE
 
 ## 5.Conclusiones
 
