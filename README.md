@@ -38,7 +38,7 @@ _b. Fuente de voltaje._
 
 _c. ¿A que se parece un capacitor en estado estable de cd?_
 
-_Circuito abierto._
+_c. Circuito abierto._
 
 _d. ¿Que se quiere decir con i(0_) y con i(0_)?_
 
