@@ -68,14 +68,15 @@ _a. Determine la ecuación para el voltaje de carga vc._
 
 _b. Determine la ecuación para la corriente de carga ic._
 
+__c. Por sustitución directa, calcule vce ic en t = 0+ s, 40, 80, 120, 160 y
+200 us._
+
 ![image](https://user-images.githubusercontent.com/84418933/127669794-760e1d49-18f6-4060-a72b-a1c44ff8b5c8.png)
 
 ![image](https://user-images.githubusercontent.com/84418933/127669816-7a15d744-6652-4ead-aa63-f40c0b5c40fb.png)
+
 ![image](https://user-images.githubusercontent.com/84418933/127669853-d338914a-6010-4d2b-97dd-dca08299af38.png)
 
-
-_c. Por sustitución directa, calcule vce ic en t = 0+ s, 40, 80, 120, 160 y
-200 us. 
 _9. Repita el problema 8 para el circuito de la figura 11-52._
 
 _El interruptor de la figura 11-51 esta cerrado en t _ 0 s. Determine las ecuaciones la corriente y el voltaje del capacitor. Calcule vC e iC en t 50 ms._
