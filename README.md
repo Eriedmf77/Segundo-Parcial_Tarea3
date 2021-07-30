@@ -58,7 +58,7 @@ _El interruptor de la figura 11-51 esta cerrado en t _ 0 s. Determine las ecuaci
 
 ![image](https://user-images.githubusercontent.com/85728185/127660167-e0a99071-5c66-4a42-8d6c-5e5c790ca7fb.png)
 
-** Capitulo 12 **
+**Capítulo 12**
 
 ## 4.Video
 
