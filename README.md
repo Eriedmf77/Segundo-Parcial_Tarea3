@@ -240,6 +240,8 @@ https://youtu.be/tNY0WxooXBE
 
 ## 5.Conclusiones
  
+ _Resolviendo los ejercicios de circuitos magenticos y analizando cada un de ellos, hemos comprendido el como usar las fórmulas y conceptos idoneamente._
+ 
 ## 6.Bibliografía 
 
 _Carlos G, J. (2021b, junio 17). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/_
