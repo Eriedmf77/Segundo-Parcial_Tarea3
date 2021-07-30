@@ -26,11 +26,13 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 **Capítulo 11**
 
-![image](https://user-images.githubusercontent.com/85259801/127675616-5f1c76c9-79ed-4be4-b3d4-241c0fc3d17c.png)
+![image](https://user-images.githubusercontent.com/85259801/127675781-2e6c903a-7680-4679-9ab1-b86dc5c65048.png)
+
 
 **Capítulo 12**
 
-![image](https://user-images.githubusercontent.com/85259801/127675654-8fdf0e67-dbde-4d0a-b9ff-504198a77489.png)
+![image](https://user-images.githubusercontent.com/85259801/127675808-c950d22b-569c-4628-9ef0-850d9fe87a1d.png)
+
 
 ## 3. Explicación y Resolución ejercicios
 
