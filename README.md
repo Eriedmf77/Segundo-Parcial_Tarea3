@@ -26,6 +26,24 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 **Capítulo 11**
 
+### INTRODUCCIÓN
+
+_3. a. ¿A que se parece un capacitor descargado en el instante que se conecta el interruptor?_
+
+_a. cortocircuito_
+
+_b. ¿Como se ve un capacitor cargado en el instante que se acciona el interruptor?_
+
+_b. Fuente de voltaje._
+
+_c. ¿A que se parece un capacitor en estado estable de cd?_
+
+_Circuito abierto._
+
+_d. ¿Que se quiere decir con i(0_) y con i(0_)?_
+
+_d. Con i(0-)=corriente justo antes de t =0s . Con i(0+)=corriente._
+
 **Capítulo 12**
 
 ## 3. Explicación y Resolución Ejercicios
