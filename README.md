@@ -92,6 +92,21 @@ _c. Determine las ecuaciones de descarga para vC e iC._
 
 ![image](https://user-images.githubusercontent.com/85728185/127664113-5768f76d-b937-4656-99fd-4e4459ff2622.png)
 
+**11-5 Circuitos más complejos**
+
+_33. Para el circuito de la figura 11-54, el capacitor esta inicialmente descargado. El interruptor es movido primero a la posicion de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C._
+
+![image](https://user-images.githubusercontent.com/85728185/127665609-a01fe35b-5c6d-4770-86df-cb57161593c8.png)
+
+**11-7 Respuesta al pulso de circuitos RC**
+
+_39. Considere la forma de onda de la figura 11-62._
+
+![image](https://user-images.githubusercontent.com/85728185/127666279-0849ea78-1930-4709-b96d-cd89ce557322.png)
+
+![image](https://user-images.githubusercontent.com/85728185/127666359-3af53f71-1a47-4047-8aaf-dbeba2ed63bd.png)
+
+
 ** Capítulo 12 **
 
 ## 4.Video
