@@ -68,7 +68,7 @@ _a. Determine la ecuación para el voltaje de carga vc._
 
 _b. Determine la ecuación para la corriente de carga ic._
 
-__c. Por sustitución directa, calcule vce ic en t = 0+ s, 40, 80, 120, 160 y
+_c. Por sustitución directa, calcule vce ic en t = 0+ s, 40, 80, 120, 160 y
 200 us._
 
 ![image](https://user-images.githubusercontent.com/84418933/127669794-760e1d49-18f6-4060-a72b-a1c44ff8b5c8.png)
