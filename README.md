@@ -175,6 +175,41 @@ _43. Se aplica un escalón al circuito de la figura 11-66. Si R = 15012 y C = 20
 
 ** Capítulo 12 **
 
+_1. Vea la figura 12-41:_
+
+_a. ¿Qué área, Aj o A2, utilizaría para calcular la densidad de flujo?_ 
+
+_b. Si Þ = 28 mWb, ¿cuál es la densidad de flujo en teslas?_
+
+![image](https://user-images.githubusercontent.com/84418933/127672353-1487c246-a0d2-4328-8cf1-287821f797f7.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127672387-838b14a3-2431-461a-94e5-47d8d2cf59c3.png)
+
+_7. Para la sección del núcleo de hierro de la figura 12-45, si , = 12 mWb y P3 = 2 mWb, ¿cuánto vale B2?_
+
+![image](https://user-images.githubusercontent.com/84418933/127672424-0ace17a5-8562-4074-9dce-9c6f0442ef86.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127672447-2e72fa9f-63e8-4e56-82a3-739083b5edd4.png)
+
+_13. Suponga que una bobina N2 que lleva la corriente la se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo,  suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso._
+
+![image](https://user-images.githubusercontent.com/84418933/127672512-4ddc99d5-83c9-4445-b4a0-f118b1592edd.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127672533-3bfe2335-ebca-41d2-8b14-63fe2cd21426.png)
+
+_19. El núcleo de hierro fundido de la figura 12-49 mide 1 cm X 1.5 cm, la = 0.3mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I._
+
+![image](https://user-images.githubusercontent.com/84418933/127672580-4b2fd0d4-2757-4c93-ab49-d2bfcb3c8b69.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127672608-8dfd1aee-4ff8-48ca-898c-a86a5449284a.png)
+
+_25. Si el circuito de la figura 12-53 no tiene espacio y R3 = 0.2 mWb, encuentre I._
+
+![image](https://user-images.githubusercontent.com/84418933/127672671-dfa83bef-e664-412c-9022-eeaff1222674.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127672694-35ae5150-8ec2-47e9-8bb3-33d350e3a392.png)
+
+
 ## 4.Video
 
 **Capítulo 11**
