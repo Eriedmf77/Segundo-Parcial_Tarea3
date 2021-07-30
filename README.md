@@ -94,6 +94,13 @@ _El interruptor de la figura 11-51 esta cerrado en t _ 0 s. Determine las ecuaci
 
 ![image](https://user-images.githubusercontent.com/85728185/127660167-e0a99071-5c66-4a42-8d6c-5e5c790ca7fb.png)
 
+_11. Determine la cte de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo en seg tardará el capacitor en cargarse?_
+
+![image](https://user-images.githubusercontent.com/85259801/127685526-00676081-e668-48e0-87f2-bdfd72842a23.png)
+
+![image](https://user-images.githubusercontent.com/85259801/127685499-5eb7f564-8b6a-499e-98bc-88966fe1597d.png)
+
+
 _13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de O V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en 1 = 0+, 40, 80, 120, 160 y 200 us, use las curvas de la constante de tiempo universal._
 
 ![image](https://user-images.githubusercontent.com/84418933/127669997-b716ded7-e88a-43eb-9fdd-faf5632930ce.png)
