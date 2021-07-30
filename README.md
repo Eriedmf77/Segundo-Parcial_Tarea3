@@ -173,7 +173,7 @@ _43. Se aplica un escalón al circuito de la figura 11-66. Si R = 15012 y C = 20
 **11-8 Análisis transitorio por computadora**
 
 
-** Capítulo 12 **
+**Capítulo 12**
 
 _1. Vea la figura 12-41:_
 
