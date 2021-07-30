@@ -60,7 +60,7 @@ _El interruptor de la figura 11-51 esta cerrado en t _ 0 s. Determine las ecuaci
 
 _15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierraa. El capacitor tarda 1 s para cargarse. Si E _ 75 V, determine R y C._
 
-![image](https://user-images.githubusercontent.com/85728185/127661384-dc95c65b-9ade-491f-8b05-02e9b2b401f5.png)
+![image](https://user-images.githubusercontent.com/85728185/127661588-c7e15931-7e04-41e4-8605-526fc7b8848f.png)
 
 ** Capítulo 12 **
 
