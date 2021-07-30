@@ -64,6 +64,11 @@ _d. ¿Que se quiere decir con i(0_) y con i(0_)?_
 
 _d. Con i(0-)=corriente justo antes de t =0s . Con i(0+)=corriente._
 
+_5. Para un circuito de carga, R = 5.6 kohm y vC(0^-) = 0 V. Si i(0^+) = 2.7 mA,
+¿cuál es el valor de E?_
+
+![image](https://user-images.githubusercontent.com/85259801/127683979-01e6c578-f8a5-4960-bc04-ee07bd09c117.png)
+
 **11-2 Ecuaciones de carga del capacitor**
 
 _7. Repita el problema 6 si R = 500 N, C = 25 UF y E = 45 V, pero ahora calcule y grafique valores en t = 0 s, 20, 40, 60, 80 y 100 ms._
