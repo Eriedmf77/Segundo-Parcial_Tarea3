@@ -26,6 +26,12 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 **Capítulo 11**
 
+**Capítulo 12 **
+
+## 3. Explicación y Resolución ejercicios
+
+**Capítulo 11 **
+
 ### INTRODUCCIÓN
 
 _3. a. ¿A que se parece un capacitor descargado en el instante que se conecta el interruptor?_
@@ -44,13 +50,15 @@ _d. ¿Que se quiere decir con i(0_) y con i(0_)?_
 
 _d. Con i(0-)=corriente justo antes de t =0s . Con i(0+)=corriente._
 
-**Capítulo 12**
+**11-2 Ecuaciones de carga del capacitor**
 
-## 3. Explicación y Resolución Ejercicios
+_9. Repita el problema 8 para el circuito de la figura 11-52._
 
-**Capitulo 11**
+_El interruptor de la figura 11-51 esta cerrado en t _ 0 s. Determine las ecuaciones la corriente y el voltaje del capacitor. Calcule vC e iC en t 50 ms._
 
-**Capitulo 12**
+![image](https://user-images.githubusercontent.com/85728185/127660167-e0a99071-5c66-4a42-8d6c-5e5c790ca7fb.png)
+
+** Capitulo 12 **
 
 ## 4.Video
 
