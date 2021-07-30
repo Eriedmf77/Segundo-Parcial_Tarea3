@@ -26,7 +26,7 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 
 **Capítulo 11**
 
-**Capítulo 12 **
+**Capítulo 12**
 
 ## 3. Explicación y Resolución ejercicios
 
