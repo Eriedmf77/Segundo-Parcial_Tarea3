@@ -242,3 +242,5 @@ https://youtu.be/tNY0WxooXBE
 
 
 ## 6.Bibliografía 
+
+_Carlos G, J. (2021b, junio 17). ▷ 【 ¿Qué es la Capacitancia? 】 ⚡ Formula y Unidad de medida. Capacitores.Net. https://capacitores.net/que-es-la-capacitancia/_
