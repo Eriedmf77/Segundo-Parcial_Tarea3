@@ -1,7 +1,7 @@
 
 ##
 
-# Informe Ejercicios Capitulo 9 y 10
+# Informe Ejercicios Capitulo 11 y 12
 #### Fundamento de circuitos Eléctricos 
 ### Ing. Darwin Omar Alulema Flores
 
