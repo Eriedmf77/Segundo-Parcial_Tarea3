@@ -33,6 +33,14 @@ _Identificar y aplicar los métodos de análisis de mallas y/o análisis de nodo
 **Capítulo 11**
 
 ### INTRODUCCIÓN
+_1. El capacitor de la figura 11-50 está descargado._ 
+
+_a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?_ 
+
+_b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?_
+
+![image](https://user-images.githubusercontent.com/84418933/127669364-3e73c7e6-b521-47fd-8fb5-5451b1a6ef0d.png)
+![image](https://user-images.githubusercontent.com/84418933/127669399-1ba1a08b-bcf0-4dfe-8df4-7a0f685f0b48.png)
 
 _3. a. ¿A que se parece un capacitor descargado en el instante que se conecta el interruptor?_
 
@@ -52,17 +60,44 @@ _d. Con i(0-)=corriente justo antes de t =0s . Con i(0+)=corriente._
 
 **11-2 Ecuaciones de carga del capacitor**
 
+_7. Repita el problema 6 si R = 500 N, C = 25 UF y E = 45 V, pero ahora calcule y grafique valores en t = 0 s, 20, 40, 60, 80 y 100 ms._
+
+_El interruptor de la figura 11-50 está cerrado en 1 = 0 s. El capacitor está inicialmente descargado._ 
+
+_a. Determine la ecuación para el voltaje de carga vc._ 
+
+_b. Determine la ecuación para la corriente de carga ic._
+
+![image](https://user-images.githubusercontent.com/84418933/127669794-760e1d49-18f6-4060-a72b-a1c44ff8b5c8.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127669816-7a15d744-6652-4ead-aa63-f40c0b5c40fb.png)
+![image](https://user-images.githubusercontent.com/84418933/127669853-d338914a-6010-4d2b-97dd-dca08299af38.png)
+
+
+_c. Por sustitución directa, calcule vce ic en t = 0+ s, 40, 80, 120, 160 y
+200 us. 
 _9. Repita el problema 8 para el circuito de la figura 11-52._
 
 _El interruptor de la figura 11-51 esta cerrado en t _ 0 s. Determine las ecuaciones la corriente y el voltaje del capacitor. Calcule vC e iC en t 50 ms._
 
 ![image](https://user-images.githubusercontent.com/85728185/127660167-e0a99071-5c66-4a42-8d6c-5e5c790ca7fb.png)
 
+_13. Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de O V. Cierre el interruptor en t = 0 y determine el voltaje y corriente del capacitor en 1 = 0+, 40, 80, 120, 160 y 200 us, use las curvas de la constante de tiempo universal._
+
+![image](https://user-images.githubusercontent.com/84418933/127669997-b716ded7-e88a-43eb-9fdd-faf5632930ce.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127670048-4472fe2e-9b36-43ed-8c0d-4014c1034b84.png)
+
 _15. Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierraa. El capacitor tarda 1 s para cargarse. Si E _ 75 V, determine R y C._
 
 ![image](https://user-images.githubusercontent.com/85728185/127661588-c7e15931-7e04-41e4-8605-526fc7b8848f.png)
 
 **11-3 Capacitores con un voltaje inicial**
+
+_19. El capacitor de la figura 11-50 tiene un voltaje inicial. Si Vo = 10 V, ¿cuál es la corriente justo después de que el interruptor se ha cerrado?_
+
+![image](https://user-images.githubusercontent.com/84418933/127670454-adf2c992-88fd-4f67-88d4-79fd742b9dc4.png)
+![image](https://user-images.githubusercontent.com/84418933/127670501-61929ee8-7334-4cc6-bf6b-15fb87954899.png)
 
 _21. Para el capacitor de la figura 11-51, V0 _ 30 V._
 
@@ -75,6 +110,10 @@ _b. Determine la expresion para la corriente iC._
 ![image](https://user-images.githubusercontent.com/85728185/127662433-ec7bf85a-24d9-4ac8-9509-d1ae36dd920b.png)
 
 **11-4 Ecuaciones de descarga del capacitor**
+
+_25. Un capacitor de 4.7 uF se carga a 43 volts. Si un resistor de 39 kN se conecta al capacitor, ¿cuál es el voltaje, 200 ms después de que se conecta el resistor?_
+
+![image](https://user-images.githubusercontent.com/84418933/127670875-aafa15df-3b9c-47f5-8945-6104ebe7c331.png)
 
 _27. Para la figura 11-54, sea E _ 200 V, R2 _ 1 k_ y C _ 0.5 _F. Despues de que el capacitor esta totalmente cargado en la posicion 1, el interruptor es movido a la posicion 2._
 
@@ -94,11 +133,29 @@ _c. Determine las ecuaciones de descarga para vC e iC._
 
 **11-5 Circuitos más complejos**
 
+_31. Repita el problema 30, del inciso (a) al (c) para el circuito de la figura 11-57._
+
+_a. Determine las ecuaciones para veic_ 
+
+_b. Calcule el voltaje del capacitor en t = 0+ 2, 4, 6, 8, 10 y 12 ms._
+
+_c. Repita el inciso (b) para la corriente del capacitor._
+
+![image](https://user-images.githubusercontent.com/84418933/127671052-cd1e5d5d-3b97-42b5-b65d-845591e9f286.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127671084-80d3c340-438f-4c1e-abb6-7e475c76932d.png)
+
 _33. Para el circuito de la figura 11-54, el capacitor esta inicialmente descargado. El interruptor es movido primero a la posicion de carga y luego a la de descarga, proporcionando la corriente que se muestra en la figura 11-58. El capacitor se carga totalmente en 12.5 s. Determine E, R2 y C._
 
 ![image](https://user-images.githubusercontent.com/85728185/127665609-a01fe35b-5c6d-4770-86df-cb57161593c8.png)
 
 **11-7 Respuesta al pulso de circuitos RC**
+
+_37. Para el circuito de alarma de la figura 11-32, si la entrada desde el sensor es de 5 V, R = 750 k 2 y la alarma es activada en 15 s cuando ve = 3.8 V, ¿qué valor tiene C?_
+
+![image](https://user-images.githubusercontent.com/84418933/127671356-45d00b15-3e6b-4ac1-8e07-4d6c1abb49b1.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127671397-cbee726e-6876-4b8e-9e9d-9c2cf64397f9.png)
 
 _39. Considere la forma de onda de la figura 11-62._
 
@@ -106,6 +163,11 @@ _39. Considere la forma de onda de la figura 11-62._
 
 ![image](https://user-images.githubusercontent.com/85728185/127666359-3af53f71-1a47-4047-8aaf-dbeba2ed63bd.png)
 
+_43. Se aplica un escalón al circuito de la figura 11-66. Si R = 15012 y C = 20 pF, estime el tiempo que tarda en subir el voltaje de salida._
+
+![image](https://user-images.githubusercontent.com/84418933/127671497-70987df7-5268-4087-bfdf-0678383d6690.png)
+
+![image](https://user-images.githubusercontent.com/84418933/127671523-1ca6ab58-0697-49a1-9aee-96d585b97439.png)
 
 **11-8 Análisis transitorio por computadora**
 
