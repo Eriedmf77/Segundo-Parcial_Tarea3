@@ -74,7 +74,7 @@ _b. Determine la expresion para la corriente iC._
 
 ![image](https://user-images.githubusercontent.com/85728185/127662433-ec7bf85a-24d9-4ac8-9509-d1ae36dd920b.png)
 
-** Capítulo 12 **
+**Capítulo 12**
 
 ## 4.Video
 
