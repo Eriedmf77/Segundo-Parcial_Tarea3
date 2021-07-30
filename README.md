@@ -107,6 +107,9 @@ _39. Considere la forma de onda de la figura 11-62._
 ![image](https://user-images.githubusercontent.com/85728185/127666359-3af53f71-1a47-4047-8aaf-dbeba2ed63bd.png)
 
 
+**11-8 Análisis transitorio por computadora**
+
+
 ** Capítulo 12 **
 
 ## 4.Video
