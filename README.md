@@ -74,7 +74,25 @@ _b. Determine la expresion para la corriente iC._
 
 ![image](https://user-images.githubusercontent.com/85728185/127662433-ec7bf85a-24d9-4ac8-9509-d1ae36dd920b.png)
 
-**Capítulo 12**
+**11-4 Ecuaciones de descarga del capacitor**
+
+_27. Para la figura 11-54, sea E _ 200 V, R2 _ 1 k_ y C _ 0.5 _F. Despues de que el capacitor esta totalmente cargado en la posicion 1, el interruptor es movido a la posicion 2._
+
+![image](https://user-images.githubusercontent.com/85728185/127663955-04629162-842e-42be-a876-0151d5186c71.png)
+
+_a. ¿Que voltaje tiene el capacitor inmediatamente despues de que el interruptor es movido a la posicion 2? ¿Cual es la corriente?_
+
+![image](https://user-images.githubusercontent.com/85728185/127664009-452b7465-a9b7-4ea0-a12b-26250c6debc7.png)
+
+_b. ¿Cual es la constante de tiempo de descarga?_
+
+![image](https://user-images.githubusercontent.com/85728185/127664072-cd16e781-36fb-4043-972f-e0f994c875b7.png)
+
+_c. Determine las ecuaciones de descarga para vC e iC._
+
+![image](https://user-images.githubusercontent.com/85728185/127664113-5768f76d-b937-4656-99fd-4e4459ff2622.png)
+
+** Capítulo 12 **
 
 ## 4.Video
 
